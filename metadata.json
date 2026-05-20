@@ -1,0 +1,6 @@
+{
+  "name": "Omo Baba Oniwe Bookstore",
+  "description": "A stunning online bookstore with interactive 3D book previews, virtual shelves, category filtering, a shopping cart, and a responsive checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
